@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "functions": {
+    "api/*.js": { "maxDuration": 10 }
+  },
+  "routes": [
+    { "src": "/wordhub_tree.json", "dest": "/public/wordhub_tree.json" },
+    { "src": "/review.js", "dest": "/public/review.js" },
+    { "src": "/", "dest": "/public/index.html" }
+  ]
+}
