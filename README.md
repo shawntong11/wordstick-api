@@ -50,3 +50,4 @@ MIT
 
 
 <img width="1157" height="1438" alt="Screenshot 2026-04-01 at 1 14 36 PM" src="https://github.com/user-attachments/assets/f19b647d-bf68-47e3-8f67-ee0d41cf0b2e" />
+<img width="471" height="685" alt="Screenshot 2026-04-01 at 1 24 43 PM" src="https://github.com/user-attachments/assets/2de8c623-16c5-475f-bd24-269bf8255ef3" />
